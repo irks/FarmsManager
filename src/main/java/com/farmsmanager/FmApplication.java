@@ -1,4 +1,4 @@
-package com.farmsmanager.fm;
+package com.farmsmanager;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class FmApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(FmApplication.class, args);
 	}
 }
