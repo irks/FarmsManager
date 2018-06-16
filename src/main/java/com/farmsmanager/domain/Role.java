@@ -1,4 +1,4 @@
-package com.farmsmanager.auth.model;
+package com.farmsmanager.domain;
 
 import javax.persistence.*;
 import java.util.Set;

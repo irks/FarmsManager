@@ -1,5 +1,6 @@
-package com.farmsmanager.auth.model;
+package com.farmsmanager.domain;
 
+import com.farmsmanager.domain.Role;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
 import javax.persistence.*;

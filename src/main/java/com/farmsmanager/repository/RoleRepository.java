@@ -1,7 +1,7 @@
-package com.farmsmanager.auth.repository;
+package com.farmsmanager.repository;
 
 
-import com.farmsmanager.auth.model.Role;
+import com.farmsmanager.domain.Role;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface RoleRepository extends JpaRepository<Role, Long> {

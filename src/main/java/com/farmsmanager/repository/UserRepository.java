@@ -1,7 +1,7 @@
-package com.farmsmanager.auth.repository;
+package com.farmsmanager.repository;
 
 
-import com.farmsmanager.auth.model.User;
+import com.farmsmanager.domain.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface UserRepository extends JpaRepository<User, Long> {

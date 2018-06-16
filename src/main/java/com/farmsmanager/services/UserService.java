@@ -1,7 +1,5 @@
-package com.farmsmanager.auth.service;
+package com.farmsmanager.services;
 
-import com.farmsmanager.auth.model.Role;
-import com.farmsmanager.auth.model.User;
 //import com.farmsmanager.auth.repository.UserRepository;
 //import org.springframework.beans.factory.annotation.Autowired;
 //import org.springframework.security.core.GrantedAuthority;
